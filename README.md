@@ -3,6 +3,8 @@ An interactive dashboard that explores the Netflix catalog: how much content is 
 
 Live app: 
 
+https://netflix-dashboard-hkxenggmgzlklxsudu6p94.streamlit.app/
+
 Features
 
 Sidebar filters for type (Movie / TV Show) and release year
